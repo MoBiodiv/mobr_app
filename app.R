@@ -1,9 +1,3 @@
-library(mobr)
-library(shiny)
-library(shinydashboard)
-library(shinyjqui)
-library(shinycssloaders)
-
 # Outside code for CSV file read in used in ui
 
 # Create empty file for session code storage
